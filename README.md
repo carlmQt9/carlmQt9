@@ -51,11 +51,7 @@
   </tr>
 </table>
 
-<h2 align="center">GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlmQt9&theme=github_dark" alt="Carl M. Morano's GitHub activity" width="95%" />
-</p>
 
 <h2 align="center">Let's Connect</h2>
 
