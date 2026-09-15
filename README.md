@@ -1,26 +1,30 @@
-<div align="center">
-  <h1 id="carlmorano-title">👋 Hello there! I'm Carl M. Morano</h1>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Web+Developer;AI-Assisted+Developer;Computer+Science+Student" alt="Web Developer, AI-Assisted Developer, Computer Science Student" />
-  </p>
-</div>
-
-<p align="center">
-  <a href="https://github.com/carlmQt9"><img src="https://komarev.com/ghpvc/?username=carlmQt9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
-  <a href="https://github.com/carlmQt9?tab=followers"><img src="https://img.shields.io/github/followers/carlmQt9?style=flat&logo=github" alt="GitHub followers" /></a>
-  <a href="https://carlmorano.vercel.app"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcarlmorano.vercel.app&style=flat" alt="Portfolio website" /></a>
-  <a href="mailto:moranocarlcarl@gmail.com"><img src="https://img.shields.io/badge/Email-moranocarlcarl%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<div align="center">
-  <p>🎓 &nbsp;Pursuing a <strong>Bachelor of Science in Computer Science</strong> at President Ramon Magsaysay State University - Sta. Cruz Campus</p>
-  <p>📍 &nbsp;Based in <strong>Zambales, Philippines</strong></p>
-  <p>🧪 &nbsp;Developing the <strong>PRMSU Sta. Cruz OJT Monitoring System</strong> as my thesis project</p>
-  <p>🛠️ &nbsp;Building <strong>web applications, database systems, authentication, and role-based workflows</strong></p>
-  <p>🤖 &nbsp;Using <strong>AI-assisted development</strong> with GitHub Copilot, Claude, Kiro, and ChatGPT</p>
-  <p>💬 &nbsp;Interested in <strong>full-stack development, system design, and practical software solutions</strong></p>
-  <p>🌐 &nbsp;Visit my <strong><a href="https://carlmorano.vercel.app/">portfolio</a></strong>, connect on <strong><a href="https://github.com/carlmQt9">GitHub</a></strong>, or <strong><a href="mailto:moranocarlcarl@gmail.com">send me an email</a></strong></p>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="68%">
+      <h1 id="carlmorano-title">👋 Hello there! I'm Carl M. Morano</h1>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Web+Developer;AI-Assisted+Developer;Computer+Science+Student" alt="Web Developer, AI-Assisted Developer, Computer Science Student" />
+      </p>
+      <p>
+        <a href="https://github.com/carlmQt9"><img src="https://komarev.com/ghpvc/?username=carlmQt9&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
+        <a href="https://github.com/carlmQt9?tab=followers"><img src="https://img.shields.io/github/followers/carlmQt9?style=flat&logo=github" alt="GitHub followers" /></a>
+        <a href="https://carlmorano.vercel.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fcarlmorano.vercel.app&style=flat" alt="Portfolio website" /></a>
+        <a href="mailto:moranocarlcarl@gmail.com"><img src="https://img.shields.io/badge/Email-moranocarlcarl%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+      <p>🎓 &nbsp;Pursuing a <strong>Bachelor of Science in Computer Science</strong> at President Ramon Magsaysay State University - Sta. Cruz Campus</p>
+      <p>📍 &nbsp;Based in <strong>Zambales, Philippines</strong></p>
+      <p>🧪 &nbsp;Developing the <strong>PRMSU Sta. Cruz OJT Monitoring System</strong> as my thesis project</p>
+      <p>🛠️ &nbsp;Building <strong>web applications, database systems, authentication, and role-based workflows</strong></p>
+      <p>🤖 &nbsp;Using <strong>AI-assisted development</strong> with GitHub Copilot, Claude, Kiro, and ChatGPT</p>
+      <p>💬 &nbsp;Interested in <strong>full-stack development, system design, and practical software solutions</strong></p>
+      <p>🌐 &nbsp;Visit my <strong><a href="https://carlmorano.vercel.app/">portfolio</a></strong>, connect on <strong><a href="https://github.com/carlmQt9">GitHub</a></strong>, or <strong><a href="mailto:moranocarlcarl@gmail.com">send me an email</a></strong></p>
+    </td>
+    <td align="center" valign="top" width="32%">
+      <br>
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" alt="Computer programming meme" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
